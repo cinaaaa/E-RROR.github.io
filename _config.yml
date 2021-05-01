@@ -1,37 +1,37 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://E-RROR.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Sina Farhadi | سینا فرهادی
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : https://avatars.githubusercontent.com/u/42252572?v=4
+    username : Sina Farhadi
+    description : A guy who love blockchain and machine learning to build startups that worth!
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2020-10-03
+        end : life
+        experience : Aflak Mandli, Founder
     skills : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email:  sina.farhadi@protonmail.com
+    linkedin: https://www.linkedin.com/in/sina-farhadi-profile/
+    github: E-RROR
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
+    twitter: _sinafarhadi
     youtube:
     facebook:
-    instagram:
+    instagram: _sinafarhadi
 
   # Disqus
   disqus_shortname :
