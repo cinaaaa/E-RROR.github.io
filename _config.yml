@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : https://avatars.githubusercontent.com/u/42252572?v=4
+    image : assets/img/Screenshot 2021-04-21 155550.png
     username : Sina Farhadi
     description : A guy who love blockchain and machine learning to build startups that worth!
     experience :
