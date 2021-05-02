@@ -11,11 +11,11 @@ theme_settings :
   profile :
     image : assets/img/Screenshot 2021-04-21 155550.png
     username : Sina Farhadi
-    description : A guy who love blockchain and machine learning to build startups that worth!
+    description : یه پسر که با بلاکچین و یادگیری ماشینی دوست داره استارت اپ باحال بسازه
     experience :
       - start : 2020-10-03
         end : life
-        experience : Aflak Mandli, Founder
+        experience : یارا تکین افلاک مانلی, بنیانگذار
     skills : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
