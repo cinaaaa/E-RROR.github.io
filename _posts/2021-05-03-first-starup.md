@@ -7,7 +7,9 @@ author: سینا فرهادی
 comments : False
 ---
 <img src="https://miro.medium.com/max/2000/1*2suY6W__iqkF_H3Fk73cGw@2x.png" />
+<br>
 اگه تو فکر ساخت یه استارت اپ هستی این پست خیلی میتونه کمکت کنه
+<br>
 <br>
 
 <h2>استارت اپ چیه؟</h2>
