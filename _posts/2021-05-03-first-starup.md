@@ -2,11 +2,11 @@
 layout: post
 title: اولین استارت اپ من
 subtitle : در این بلاگ پست تجربیات خودم رو از اولین استارت اپم رو میگم
-tags: [استارت اپ,تجربه]
+tags: [استارت اپ]
 author: سینا فرهادی
 comments : False
 ---
-<img src="https://media.istockphoto.com/vectors/white-iceberg-on-blue-atlantic-background-vector-vector-id999430932?k=6&m=999430932&s=612x612&w=0&h=HUhodpoqnm2ySFVcWKKoQ0rLsIAfAIwcpd0xV0RoEek=" />
+<img src="https://miro.medium.com/max/2000/1*2suY6W__iqkF_H3Fk73cGw@2x.png" />
 اگه تو فکر ساخت یه استارت اپ هستی این پست خیلی میتونه کمکت کنه
 <br>
 
