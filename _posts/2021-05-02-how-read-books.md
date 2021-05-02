@@ -6,7 +6,7 @@ tags: [کتاب]
 author: سینا فرهادی
 comments : False
 ---
-
+<img src="https://img.huffingtonpost.com/asset/5d6ff1882500005500034195.jpeg?ops=scalefit_720_noupscale" />
 چطور من تا 17 سالگی در زندگیم با باز کردن کتاب سرم گیج میخورد اما حالا ماهی چند کتاب میخونم؟
 <br>
 <br>
@@ -21,7 +21,6 @@ comments : False
 4. تموم
 ---
 اما خب من فهمیدم که اصلا این روند رو دوست ندارم و دیوار بزرگی شده جلوم و نمیزاره توسعه فردی ام رو انجام بدم پس چیکار کردم اومدم تغییر دادم این روش رو
-<img src="https://img.huffingtonpost.com/asset/5d6ff1882500005500034195.jpeg?ops=scalefit_720_noupscale" />
 <br />
 <h2>کتاب صوتی, معجزه قرن</h2>
 بله درسته کتاب صوتی.
