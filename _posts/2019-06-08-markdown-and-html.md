@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample Post with Markdown
-subtitle : How markdown is displayed as html
-tags: [Sample Post, Demo]
-author: Nayeong Kim
-comments : True
+title: وبلاگ من
+subtitle : چرا بلاگ ام رو دوباره انلاین کردم؟
+tags: [وبلاگ, معرفی]
+author: سینا فرهادی
+comments : False
 ---
 
 This post show result from awesome Markdown techniques like jekyll. 
