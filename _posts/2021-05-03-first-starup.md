@@ -6,7 +6,7 @@ tags: [استارت اپ,تجربه]
 author: سینا فرهادی
 comments : False
 ---
-<img src="https://lh3.googleusercontent.com/GWaA63lx8V54g12_nB5f9RCX69lEvm0-BNYzyrIKq655GdmwFnVe-JsRq8ENH6yIwZmCZyXSqaXSDGF1G2yY=w1920-h975-rw" />
+<img src="https://media.istockphoto.com/vectors/white-iceberg-on-blue-atlantic-background-vector-vector-id999430932?k=6&m=999430932&s=612x612&w=0&h=HUhodpoqnm2ySFVcWKKoQ0rLsIAfAIwcpd0xV0RoEek=" />
 اگه تو فکر ساخت یه استارت اپ هستی این پست خیلی میتونه کمکت کنه
 <br>
 
