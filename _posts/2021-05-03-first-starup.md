@@ -4,7 +4,7 @@ title: اولین استارت اپ من
 subtitle : در این بلاگ پست تجربیات خودم رو از اولین استارت اپم رو میگم
 tags: [استارت اپ]
 author: سینا فرهادی
-comments : False
+comments : True
 ---
 <img src="https://miro.medium.com/max/2000/1*2suY6W__iqkF_H3Fk73cGw@2x.png" />
 <br>
