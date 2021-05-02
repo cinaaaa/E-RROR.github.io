@@ -13,12 +13,25 @@ theme_settings :
     username : سینا فرهادی
     description : یه پسر که با بلاکچین و یادگیری ماشینی دوست داره استارت اپ باحال بسازه
     experience :
+      - start : 2018-10-03
+        end : 2020-06-01
+        experience: فری لنسر
       - start : 2020-10-03
         end : life
-        experience : یارا تکین افلاک مانلی, بنیانگذار
+        experience : بنیانگذار و کارآفرین
     skills : 
-      - skill : HTML5 & CSS
+      - skill : Blockchain & Smart Contracts
+        value : 65  # Percent value
+      - skill : Machine Learning
+        value : 55  # Percent value
+      - skill : Software development
         value : 85  # Percent value
+      - skill : Agile & Scrum
+        value : 75  # Percent value
+      - skill : Business Models
+        value : 65  # Percent value
+      - skill : volition
+        value : 100  # Percent value
         
   # Icons
   icons :
