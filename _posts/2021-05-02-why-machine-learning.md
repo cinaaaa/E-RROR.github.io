@@ -1,14 +1,13 @@
 ---
 layout: post
-title: وبلاگ من
-subtitle : چرا بلاگ ام رو دوباره انلاین کردم؟
-tags: [وبلاگ, معرفی]
+title: چرا یادگیری ماشین رو دوست دارم
+subtitle : تو این پست میگم بهتون چرا یادگیری ماشین باحاله و آینده دست اش خواهد بود
+tags: [معرفی, یادگیری ماشین]
 author: سینا فرهادی
 comments : False
 ---
 
-This post show result from awesome Markdown techniques like jekyll. 
-`Jekyll` supports to transform your plain text into static websites and blogs. 
+اصلا بیاین با این مفهوم شروع کنیم که `یادگیری ماشین` چی هستش اصلا؟
 
 you can easy to change style in `_utility.html` and a sample of the formatting follows.
 
