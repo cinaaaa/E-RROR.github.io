@@ -10,7 +10,7 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/Screenshot 2021-04-21 155550.png
-    username : Sina Farhadi
+    username : سینا فرهادی
     description : یه پسر که با بلاکچین و یادگیری ماشینی دوست داره استارت اپ باحال بسازه
     experience :
       - start : 2020-10-03
