@@ -7,38 +7,28 @@ author: سینا فرهادی
 comments : False
 ---
 
-تو این پست میخوام تجربه ها و تکنیک هایی که از اسکیل کردن تو جنگو یاد گرفتم رو باهاتون به اشتراک بزارم
-
-
-<br>
-
-code, quotes and backtick를 포함하고 있는 게시물의 예입니다. 
-
- `_utility.html`에서 스타일을 변경할 수 있으며, 서식 샘플은 아래와 같습니다.
+مطمئن هستم وبسایت هایی رو دیده باشید که یکدفعه 500 بالا میارن و یا تو حجم کاربر های
+زیاد مدام پیغام و خطا دارن ولی میدونید چرا؟
 
 <br>
-
-<h2>1. Code </h2>
-You can add highlighting for code in `highlight.scss`.
-
-{% highlight python %}
-# test function
-def test :
-    print('hello world!')
-{% endhighlight %}
-
+<h2> Scalable یعنی چی؟ </h2>
+خب خیلی ساده بگیم یعنی اینکه زیر فشار کمر اپ و سرور ات خم نشه! حتی
+اگه زیر حملات باشی و منابع سرور ات هم محدود اما خوب چطور این اتفاق می افته اصلا؟ چطور کمر ما خم میشه؟
+<img src="https://qph.fs.quoracdn.net/main-qimg-710e59deffabca1c4684273a776bf673.webp" />
+<br/>
+در واقع اپ جنگو شما محدودیت منابع و سی پی یو داره و شما هر بار با فراخوانی تایع به اصطلاح `credit` خرج میکنید
+که همون هزینه استهلاک بهش بگن فکر کنم, مثلا هر بار که شما از دیتابیس اطلاعات میخونید زمان و استهلاک به سرورتون اعمال میکنید و 
+وقتی درخواست ها زیاد بشه boooom میترکید!
+<br />
+اما خوب خوشبختانه راه های مختلفی هستند که میتونید فشار رو به حداقل برسونید و مجموع اش رو من اسم اش رو میزارم `scale` کردن
 <br>
 
-<h2>2. Quotes</h2>
-{% highlight html %}
-> Hello World, This is quotes!
-{% endhighlight %}
-> Hello World, This is quotes!
-
-<br>
-
-<h2>3. `Backtick`</h2>
-{% highlight html %}
-`Grape-Theme`
-{% endhighlight %}
-`Grape-Theme`
+<h2>1. Caching نعمت صرفه جو </h2>
+اول از همه بگم بخاطر اینکه بتونید تغییرات و منابع مصرفی جنکو رو ببیند میدلویر  `django-debug-toolbar` رو نصب کنید.
+.
+خب cache چی هسش؟
+خیلی ساده بهتون بگم ذخیره نتایج پردازش های اپ شما در دیتابیس و استفاده از اون ها به جای پردازش دوباره بهش میتونیم بگیم سیستم caching و همین! و این کار خیلی ساده میتونه منایع و هزینه سرور شما رو به طرز وحشتناکی کم بکنه!
+<img src="https://spaceaustralia.com/sites/default/files/2021-01/light-speed-light-speed.jpg" />
+<br />
+من چون نمیخوام اینجا کد بنویسم ارجاع تون میدم به سایت اصلی داکیومنت جنگو برای کش ها میتونید رو لینک زیر کلیک کنید
+<a href="https://docs.djangoproject.com/en/3.2/topics/cache/">https://docs.djangoproject.com/en/3.2/topics/cache</a>
