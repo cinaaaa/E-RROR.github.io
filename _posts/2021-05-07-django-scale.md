@@ -68,18 +68,12 @@ comments : False
 تعداد طول یه ابجکت برگشتی مدل رو بهتون میگه
 که همگی به صورت دیفالت از روش زیر استفاده میکنید
 
-```
-cb = User.objects.filter(....)
-count = len(cb)
-# for example 43
-```
+![image](https://user-images.githubusercontent.com/42252572/117456961-04f6c580-af5e-11eb-8d33-b2ede750f1d1.png)
+
 و این کار اشتباه هستش که چون میاد یه دور لوپ میره و پردازش داده ایی رو انجام میده که لازم نیستش و شما به
 سادگی میتونید با استفاده از متود `count` تعداد رو بدست بیارید
-```
-cb = User.objects.filter(....)
-count = cb.count()
-# for example 43
-```
+
+![image](https://user-images.githubusercontent.com/42252572/117456861-ea245100-af5d-11eb-847d-50ee8254c039.png)
 
 
 <br/>
