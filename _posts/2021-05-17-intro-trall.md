@@ -1,7 +1,7 @@
 ---
 layout: post
-title: نکته برداری مسیر یادگیری و Trall
-subtitle : در این پست سعی میکنیم یه مشکل همیشگی رو با trall حل کنیم
+title: نکته برداری مسیر یادگیری و ترال
+subtitle : در این پست سعی میکنیم یه مشکل همیشگی رو با ترال حل کنیم
 tags: [ابزار]
 author: سینا فرهادی
 comments : False
@@ -25,6 +25,7 @@ comments : False
 همونطور که میبنید در تصویر زیر دید اولیه شما از وب اپ ترال بصورت زیر هستش و باکس بزرگی رو با 
 علامت مثبت در وسط ان, با کلیک روی ان میتوانید اولین Lesson خودتون رو بسازید و سپس مراحل بعد
 <img src="https://github.com/E-RROR/E-RROR.github.io/blob/master/assets/img/home.png?raw=true" />
+<a href="https://trall.vercel.app">Trall Web App link - trall.vercel.app</a>
 
 <br />
 <br />
