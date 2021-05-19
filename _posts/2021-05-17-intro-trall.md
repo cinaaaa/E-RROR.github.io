@@ -8,7 +8,7 @@ comments : False
 ---
 <img src="https://github.com/E-RROR/E-RROR.github.io/blob/master/assets/img/intro.png?raw=true" />
 <br>
-وب اپ Trall یه ابزار کاربردی برای یادداشت مراحل یادگیری شما است!
+وب اپ ترال یه ابزار کاربردی برای یادداشت مراحل یادگیری شما است
 <br>
 <br>
 
