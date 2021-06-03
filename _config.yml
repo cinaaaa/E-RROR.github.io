@@ -45,6 +45,7 @@ theme_settings :
     youtube:
     facebook:
     instagram:
+    stackoverflow: 12712466/sina
 
   # Disqus
   disqus_shortname :
