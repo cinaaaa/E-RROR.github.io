@@ -11,14 +11,11 @@ theme_settings :
   profile :
     image : assets/img/avatar.jpeg
     username : سینا فرهادی
-    description : یه پسر که با بلاکچین و یادگیری ماشینی دوست داره استارت اپ باحال بسازه
+    description : یه پسر که بلاکچین و یادگیری ماشینی دوست داره
     experience :
-      - start : 2018-10-03
-        end : 2020-06-01
-        experience: فری لنسر
-      - start : 2020-10-03
-        end : life
-        experience : بنیانگذار و کارآفرین
+      - start : 2018-01-03
+        end : *
+        experience: Software developing
     skills : 
       - skill : Blockchain & Smart Contracts
         value : 65  # Percent value
