@@ -11,24 +11,9 @@ theme_settings :
   profile :
     image : assets/img/avatar.jpeg
     username : سینا فرهادی
-    description : یه پسر که بلاکچین و یادگیری ماشینی دوست داره
+    description : گیک برنامه نویسی و هوش مصنوعی
     experience :
-      - start : 2018-01-03
-        end : *
-        experience: Software developing
-    skills : 
-      - skill : Blockchain & Smart Contracts
-        value : 65  # Percent value
-      - skill : Machine Learning
-        value : 55  # Percent value
-      - skill : Software development
-        value : 85  # Percent value
-      - skill : Agile & Scrum
-        value : 75  # Percent value
-      - skill : Business Models
-        value : 65  # Percent value
-      - skill : volition
-        value : 100  # Percent value
+    skills :
         
   # Icons
   icons :
