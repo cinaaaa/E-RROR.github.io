@@ -11,9 +11,9 @@ theme_settings :
   profile :
     image : assets/img/logogrc.png
     username : سینا فرهادی
-    description : گیک برنامه نویسی و هوش مصنوعی
-    experience :
-    skills :
+    description : Software Engineer | JavaScript enthusiast
+    experience : 4+ Years
+    skills : javascript, react, css, html
         
   # Icons
   icons :
