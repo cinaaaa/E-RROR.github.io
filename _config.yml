@@ -12,8 +12,40 @@ theme_settings :
     image : assets/img/logogrc.png
     username : سینا فرهادی
     description : Software Engineer | JavaScript enthusiast
-    experience : 4+ Years
-    skills : javascript, react, css, html
+    experience :
+      - start : 2019-07-01
+        end : 2019-10-01
+        experience : Harzaan, React developer | Intern
+      - start : 2018-05-01
+        end : 2021-06-01
+        experience : Freelancer, Front-end developer
+      - start : 2021-06-15
+        end : Current
+        experience : MobilityOne, Front-end developer
+        
+    skills :
+      - skill : HTML5 & CSS
+        value : 95
+      - skill : JavaScript
+        value : 80
+      - skill : React
+        value : 85
+      - skill : Python
+        value : 90
+      - skill : Tensorflow
+        value : 60
+      - skill : Django
+        value : 95
+      - skill : Design Patterns
+        value : 70
+      - skill : TypeScript
+        value : 20
+      - skill : Solidity
+        value : 60
+      - skill : Smart Contracts
+        value : 60
+      - skill : VueJS
+        value : 30
         
   # Icons
   icons :
