@@ -4,13 +4,13 @@ url : "https://E-RROR.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Sina Farhadi | سینا فرهادی
+  title : Sina
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/logogrc.png
-    username : سینا فرهادی
+    username : Sina
     description : Software Engineer | JavaScript enthusiast
     experience :
       - start : 2019-07-01
