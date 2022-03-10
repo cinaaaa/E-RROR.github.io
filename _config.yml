@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://E-RROR.github.io"
+url : "https://cinaaaa.github.io"
 
 # Blog Settings
 theme_settings :
@@ -51,14 +51,14 @@ theme_settings :
   icons :
     email:
     linkedin: https://www.linkedin.com/in/sina-farhadi/
-    github: E-RROR
+    github: cinaaaa
     gitlab: 
     bitbucket: 
     google_plus:
     twitter: SinaFarhadi18
     youtube: https://www.youtube.com/channel/UC1DQwagZKa15Ko0lypVXaiQ
     facebook:
-    instagram: cinaaaaaaaaa_
+    instagram:
     stackoverflow: 12712466/sina
 
   # Disqus
